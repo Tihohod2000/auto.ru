@@ -1,0 +1,41 @@
+﻿{
+  "Make": "Landwind",
+  "Models": [
+    {
+      "Model": "Fashion (CV9)",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Forward",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "X5",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "X6",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "X7",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Х9",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

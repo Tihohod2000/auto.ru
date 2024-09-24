@@ -1,0 +1,84 @@
+﻿{
+  "Make": "Maxus",
+  "Models": [
+    {
+      "Model": "D60",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "D90",
+      "Generations": [
+        "2020 -  Pro (I Рестайлинг)",
+        "2017 - 2020 I"
+      ]
+    },
+    {
+      "Model": "EUNIQ 5",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "EUNIQ 6",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "G20",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "G50",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "G70",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "G90",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "MIFA 5",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "MIFA 7",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "MIFA 9",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "T90",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Territory",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

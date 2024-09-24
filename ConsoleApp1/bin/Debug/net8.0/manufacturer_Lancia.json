@@ -1,0 +1,177 @@
+﻿{
+  "Make": "Lancia",
+  "Models": [
+    {
+      "Model": "A 112",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Appia",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Aurelia",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Beta",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Dedra",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Delta",
+      "Generations": [
+        "2011 - 2014 III (844) Рестайлинг",
+        "2008 - 2011 III (844)",
+        "1993 - 1999 II (836)",
+        "1979 - 1994 I (831)"
+      ]
+    },
+    {
+      "Model": "Flaminia",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Flavia",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Fulvia",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Gamma",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Hyena",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Kappa",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Lambda",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Lybra",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Monte Carlo",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Musa",
+      "Generations": [
+        "2007 - 2012 I Рестайлинг",
+        "2004 - 2007 I"
+      ]
+    },
+    {
+      "Model": "Phedra",
+      "Generations": [
+        "2002 - 2010"
+      ]
+    },
+    {
+      "Model": "Prisma",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Rally 037",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Stratos",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Thema",
+      "Generations": [
+        "2011 - 2014 II",
+        "1984 - 1994 I"
+      ]
+    },
+    {
+      "Model": "Thesis",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Trevi",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Voyager",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Y10",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Ypsilon",
+      "Generations": [
+        "2024 -  IV (Type L21)",
+        "2015 -  III (Type 846) Рестайлинг",
+        "2011 - 2015 III (Type 846)",
+        "2006 - 2011 II (Type 843) Рестайлинг",
+        "2003 - 2006 II (Type 843)",
+        "1995 - 2003 I (Type 840)"
+      ]
+    },
+    {
+      "Model": "Zeta",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

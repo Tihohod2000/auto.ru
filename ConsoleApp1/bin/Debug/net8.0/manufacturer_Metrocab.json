@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Metrocab",
+  "Models": [
+    {
+      "Model": "Metrocab I",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Metrocab II (TTT)",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

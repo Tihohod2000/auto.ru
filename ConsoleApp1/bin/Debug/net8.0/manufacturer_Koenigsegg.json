@@ -1,0 +1,47 @@
+﻿{
+  "Make": "Koenigsegg",
+  "Models": [
+    {
+      "Model": "Agera",
+      "Generations": [
+        "2011 - 2018"
+      ]
+    },
+    {
+      "Model": "CC8S",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "CCR",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "CCX",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Jesko",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "One:1",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Regera",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

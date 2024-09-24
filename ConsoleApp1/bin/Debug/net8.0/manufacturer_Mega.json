@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Mega",
+  "Models": [
+    {
+      "Model": "Club",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Monte Carlo",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Track",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Make": "JMEV",
+  "Models": [
+    {
+      "Model": "EV3",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "GSE/Yi",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

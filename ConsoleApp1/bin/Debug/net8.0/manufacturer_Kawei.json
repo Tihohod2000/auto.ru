@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Kawei",
+  "Models": [
+    {
+      "Model": "K1",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "K150",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "K150GT",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

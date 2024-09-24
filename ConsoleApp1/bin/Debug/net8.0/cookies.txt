@@ -1,0 +1,28 @@
+count-visits;3;.auto.ru;/;27.06.2024 0:00:00
+layout-config;{"screen_height":1080,"screen_width":1920,"win_width":912,"win_height":848};.auto.ru;/;26.06.2025 20:33:12
+cycada;zsCbeT5UlX5NCCXYqhKzXsDSAg9bWkEYvskh72iAOY4=;.auto.ru;/;10.07.2024 20:33:12
+yaPlusUserPlusBalance;{%22id%22:%22108626346%22%2C%22plusPoints%22:120};.auto.ru;/;26.06.2024 20:36:09
+fp;c2b0a6839e8d4b3ecd04e3c55882555a%7C1719423147247;.auto.ru;/;26.07.2024 20:32:26
+mda2_beacon;1719423189594;.auto.ru;/;31.07.2025 20:33:08
+sso_status;sso.passport.yandex.ru:synchronized;.auto.ru;/;26.06.2024 23:33:08
+L;aA9pWA96WW5vVGBuVFVUW3lpYV8HA2VHNEcOJAAHBzkOBQoAbA==.1719423186.15785.355686.d5761bb257c675991e6158fc6f8eb30b;.auto.ru;/;31.07.2025 20:33:08
+from_lifetime;1719423194337;.auto.ru;/;
+yandexuid;5381695271719423141;.auto.ru;/;31.07.2025 20:33:08
+ys;c_chck.2551367773#udn.cDrQotC40YXQvtC9INCU0YPQvNCw0L3QvtCy0YHQutC40Lk%3D;.auto.ru;/;
+yandex_login;dumanovskiy15;.auto.ru;/;26.06.2025 20:33:08
+sessar;1.1191.CiCmljsSulCQH2MPq1_WM0cAHhlulRwpMUyTbVrxtqXyTQ.ua7GkNDwsCJYRKhDB9ZEj5n7efBIzjtdHLrb4qq_U-0;.auto.ru;/;31.07.2025 20:33:08
+autoru_sid;108626346%7C1719423190088.7776000.Im81xLX9A0ChFKS2jelO5A.Lol7IlxEu5RBGIg8AcHCAIbi5ZvYSlnSNUKqGGEzGsI;.auto.ru;/;23.12.2024 20:33:08
+Session_id;3:1719423189.5.0.1719423186227:C9aovA:28.1.2:1|676680792.-1.2.3:1719423186|61:10023519.694130.5Hl2r8IXhoFGUDn3nnkqmUO_Zx8;.auto.ru;/;31.07.2025 20:33:08
+crookie;4E/h/wMGNdeqhqyaDlonhoO2RZ8aSo3kS8xs0c2Jef27gniQPQriguMvHm5pHLAElSpRblB9o6tiS3lq8pQi21aS0V8=;.auto.ru;/;10.07.2024 20:32:22
+i;5fDty5B32Xe2wTLv2ZCEG41W4NbpE0UjTIBvly9wXfUHpgvbwnwhXXWYAa6vCqiXM4uvMaS3TSnIg0aarjwz6uhVVAc=;.auto.ru;/;31.07.2025 20:33:08
+yaPassportTryAutologin;1;.auto.ru;/;27.06.2024 20:32:27
+_ym_d;1719423194;.auto.ru;/;26.06.2025 20:33:12
+_ym_isad;2;.auto.ru;/;27.06.2024 16:32:22
+_ym_uid;1719423143583569025;.auto.ru;/;26.06.2025 20:33:12
+from;direct;.auto.ru;/;
+_yasc;9ZwBhOpXR2QJVKdBrWrxG3+7nrzLMvIHwzw9bg4tgOHSq0aDxJ2XROn9uGgHPux3;.auto.ru;/;31.07.2025 20:32:20
+_csrf_token;518dccf68893f5032f1fb202622fffbda2b440eb192fe999;.auto.ru;/;
+cmtchd;MTcxOTQyMzE0MjI3OA==;.auto.ru;/;03.07.2024 20:32:22
+autoruuid;g667c50a52gh87tfntsf5o0s8lhnj4ss.f7cb0406788050718334cdbc4a3246c9;.auto.ru;/;10.07.2024 20:32:20
+autoru_sso_blocked;1;.auto.ru;/;26.06.2024 21:32:20
+suid;39d6bd70e6a281f219338722f8368951.efadb11aef00043f64a4ef0e15376568;.auto.ru;/;26.06.2025 20:32:20

@@ -1,0 +1,35 @@
+﻿{
+  "Make": "Luxgen",
+  "Models": [
+    {
+      "Model": "Luxgen5",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Luxgen7 MPV",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Luxgen7 SUV",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "U6 Turbo",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "U7 Turbo",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

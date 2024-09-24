@@ -1,0 +1,101 @@
+﻿{
+  "Make": "McLaren",
+  "Models": [
+    {
+      "Model": "540C",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "570GT",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "570S",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "600LT",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "650S",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "675LT",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "720S",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "750S",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "765LT",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Artura",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "F1",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "GT",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "GTS",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "MP4-12C",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "P1",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Senna",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

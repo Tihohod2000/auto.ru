@@ -1,0 +1,35 @@
+﻿{
+  "Make": "Marcos",
+  "Models": [
+    {
+      "Model": "GTS",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "LM 400",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "LM 500",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Mantis",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Marcasite",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

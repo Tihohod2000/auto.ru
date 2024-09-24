@@ -1,0 +1,24 @@
+﻿{
+  "Make": "Innocenti",
+  "Models": [
+    {
+      "Model": "Elba",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Mille",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Mini",
+      "Generations": [
+        "1982 - 1993",
+        "1965 - 1975 CKD"
+      ]
+    }
+  ]
+}

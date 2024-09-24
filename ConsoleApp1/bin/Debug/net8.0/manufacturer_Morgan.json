@@ -1,0 +1,66 @@
+﻿{
+  "Make": "Morgan",
+  "Models": [
+    {
+      "Model": "3 Wheeler",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "4 Seater",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "4/4",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Aero 8",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Aero Coupe",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Aero SuperSports",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "AeroMax",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Plus 4",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Plus 8",
+      "Generations": [
+        "2012 - 2018 II",
+        "1968 - 2000 I"
+      ]
+    },
+    {
+      "Model": "Roadster",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

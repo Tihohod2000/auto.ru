@@ -1,0 +1,85 @@
+﻿{
+  "Make": "Mahindra",
+  "Models": [
+    {
+      "Model": "Armada",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Bolero",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "CJ-3",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "CL",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Commander",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Marshal",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "MM",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "NC 640 DP",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Scorpio",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Thar",
+      "Generations": [
+        "2020 -  II",
+        "2010 - 2020 I"
+      ]
+    },
+    {
+      "Model": "Verito",
+      "Generations": [
+        "2012 - 2019 I Рестайлинг",
+        "2011 - 2012 I"
+      ]
+    },
+    {
+      "Model": "Voyager",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Xylo",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}
